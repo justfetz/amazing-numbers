@@ -3,8 +3,12 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
 > 0
 [1;31m
@@ -12,16 +16,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> -67
+> -70
 9The first parameter should be a natural number or zero.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -29,16 +51,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> -18
+> -119
 9The first parameter should be a natural number or zero.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -46,16 +86,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> -49
+> -74
 9The first parameter should be a natural number or zero.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -63,16 +121,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> -78
+> -18
 9The first parameter should be a natural number or zero.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -80,16 +156,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> -21
+> -120
 9The first parameter should be a natural number or zero.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -97,190 +191,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 1
-Properties of 1
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: true
+> 22929 -30468
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 2
-Properties of 2
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: false
-	 palindromic: true
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
-Enter a request:
-> 3
-Properties of 3
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 4
-Properties of 4
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 5
-Properties of 5
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 6
-Properties of 6
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 7
-Properties of 7
-	 even: false
-	 odd: true
-	 buzz: true
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 8
-Properties of 8
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 9
-Properties of 9
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 10
-Properties of 10
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: true
-	 palindromic: false
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 11
-Properties of 11
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: true
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 12
-Properties of 12
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: false
-	 palindromic: false
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 13
-Properties of 13
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: false
-	 palindromic: false
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
-Enter a request:
-> 14
-Properties of 14
-	 even: true
-	 odd: false
-	 buzz: true
-	 duck: false
-	 palindromic: false
-Welcome to Amazing Numbers!
-Supported requests:
-2- enter a natural number to know its properties;
-- enter 0 to exit.
- 
+
 Enter a request:
 > 0
 [1;31m
@@ -288,21 +226,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 8099077815916586663
-#Properties of 8099077815916586663
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 30488 -19952
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -310,21 +261,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 2118817813120658739
-#Properties of 2118817813120658739
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 20096 -20500
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -332,21 +296,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 8691632255531308112
-#Properties of 8691632255531308112
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 21380 -17537
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -354,21 +331,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 2526144792807194636
-#Properties of 2526144792807194636
-	 even: true
-	 odd: false
-	 buzz: true
-	 duck: true
-	 palindromic: false
+> 21289 -28657
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -376,21 +366,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 2668645578351845028
-#Properties of 2668645578351845028
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 3579 -21339
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -398,21 +401,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 8356119514580526740
-#Properties of 8356119514580526740
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 5221 -25971
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -420,21 +436,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 7864371626460025283
-#Properties of 7864371626460025283
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 17035 -4408
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -442,21 +471,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 4476171550960092380
-#Properties of 4476171550960092380
-	 even: true
-	 odd: false
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 26429 -12695
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -464,21 +506,34 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 4416538121398604655
-#Properties of 4416538121398604655
-	 even: false
-	 odd: true
-	 buzz: false
-	 duck: true
-	 palindromic: false
+> 32040 -25585
+2The second parameter should be a natural number.
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
+Enter a request:
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
 Enter a request:
 > 0
 [1;31m
@@ -486,20 +541,298 @@
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 1676161054903516192
-#Properties of 1676161054903516192
-	 even: true
-	 odd: false
+> 1
+Properties of 1
 	 buzz: false
-	 duck: true
-	 palindromic: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
 Welcome to Amazing Numbers!
 Supported requests:
 2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
 - enter 0 to exit.
- 
+
 Enter a request:
-> 0
+> 2
+Properties of 2
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 3
+Properties of 3
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 4
+Properties of 4
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 5
+Properties of 5
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 6
+Properties of 6
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 7
+Properties of 7
+	 buzz: true
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 8
+Properties of 8
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 9
+Properties of 9
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 10
+Properties of 10
+	 buzz: false
+	 duck: true
+	 palindromic: false
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 11
+Properties of 11
+	 buzz: false
+	 duck: false
+	 palindromic: true
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 12
+Properties of 12
+	 buzz: false
+	 duck: false
+	 palindromic: false
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 13
+Properties of 13
+	 buzz: false
+	 duck: false
+	 palindromic: false
+	 gapful: false
+	 even: false
+	 odd: true
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 14
+Properties of 14
+	 buzz: true
+	 duck: false
+	 palindromic: false
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 3168968709477745918
+#Properties of 3168968709477745918
+	 buzz: false
+	 duck: true
+	 palindromic: false
+	 gapful: false
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:
+> 7750467334233764368
+#Properties of 7750467334233764368
+	 buzz: false
+	 duck: true
+	 palindromic: false
+	 gapful: true
+	 even: true
+	 odd: false
+Welcome to Amazing Numbers!
+Supported requests:
+2- enter a natural number to know its properties;
+C- enter two natural numbers to obtain the properties of the list:
+9    * the first parameter represents a starting number;
+R    * the second parameter shows how many consecutive numbers are to be printed;
++- separate the parameters with one space;
+- enter 0 to exit.
+
+Enter a request:

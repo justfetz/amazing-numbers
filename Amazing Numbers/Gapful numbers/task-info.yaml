@@ -607,5 +607,103 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/13201#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: "Wrong answer in test #17\n\nFor the property GAPFUL, the expected value\
+    \ is false but was found true.\n\nPlease find below the output of your program\
+    \ during this failed test.\nNote that the &#39;&gt;&#39; character indicates the\
+    \ beginning of the input line.\n\n---\n\n[last 250 lines of output are shown,\
+    \ 48 skipped]\n\t buzz: false\n\t duck: false\n\t palindromic: true\n\t gapful:\
+    \ false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\nSupported\
+    \ requests:\n- enter a natural number to know its properties;\n- enter two natural\
+    \ numbers to obtain the properties of the list:\n    * the first parameter represents\
+    \ a starting number;\n    * the second parameter shows how many consecutive numbers\
+    \ are to be printed;\n- separate the parameters with one space;\n- enter 0 to\
+    \ exit.\n\nEnter a request:\n&gt; 4\nProperties of 4\n\t buzz: false\n\t duck:\
+    \ false\n\t palindromic: true\n\t gapful: false\n\t even: true\n\t odd: false\n\
+    Welcome to Amazing Numbers!\nSupported requests:\n- enter a natural number to\
+    \ know its properties;\n- enter two natural numbers to obtain the properties of\
+    \ the list:\n    * the first parameter represents a starting number;\n    * the\
+    \ second parameter shows how many consecutive numbers are to be printed;\n- separate\
+    \ the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n&gt;\
+    \ 5\nProperties of 5\n\t buzz: false\n\t duck: false\n\t palindromic: true\n\t\
+    \ gapful: false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\nSupported\
+    \ requests:\n- enter a natural number to know its properties;\n- enter two natural\
+    \ numbers to obtain the properties of the list:\n    * the first parameter represents\
+    \ a starting number;\n    * the second parameter shows how many consecutive numbers\
+    \ are to be printed;\n- separate the parameters with one space;\n- enter 0 to\
+    \ exit.\n\nEnter a request:\n&gt; 6\nProperties of 6\n\t buzz: false\n\t duck:\
+    \ false\n\t palindromic: true\n\t gapful: false\n\t even: true\n\t odd: false\n\
+    Welcome to Amazing Numbers!\nSupported requests:\n- enter a natural number to\
+    \ know its properties;\n- enter two natural numbers to obtain the properties of\
+    \ the list:\n    * the first parameter represents a starting number;\n    * the\
+    \ second parameter shows how many consecutive numbers are to be printed;\n- separate\
+    \ the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n&gt;\
+    \ 7\nProperties of 7\n\t buzz: true\n\t duck: false\n\t palindromic: true\n\t\
+    \ gapful: false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\nSupported\
+    \ requests:\n- enter a natural number to know its properties;\n- enter two natural\
+    \ numbers to obtain the properties of the list:\n    * the first parameter represents\
+    \ a starting number;\n    * the second parameter shows how many consecutive numbers\
+    \ are to be printed;\n- separate the parameters with one space;\n- enter 0 to\
+    \ exit.\n\nEnter a request:\n&gt; 8\nProperties of 8\n\t buzz: false\n\t duck:\
+    \ false\n\t palindromic: true\n\t gapful: false\n\t even: true\n\t odd: false\n\
+    Welcome to Amazing Numbers!\nSupported requests:\n- enter a natural number to\
+    \ know its properties;\n- enter two natural numbers to obtain the properties of\
+    \ the list:\n    * the first parameter represents a starting number;\n    * the\
+    \ second parameter shows how many consecutive numbers are to be printed;\n- separate\
+    \ the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n&gt;\
+    \ 9\nProperties of 9\n\t buzz: false\n\t duck: false\n\t palindromic: true\n\t\
+    \ gapful: false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\nSupported\
+    \ requests:\n- enter a natural number to know its properties;\n- enter two natural\
+    \ numbers to obtain the properties of the list:\n    * the first parameter represents\
+    \ a starting number;\n    * the second parameter shows how many consecutive numbers\
+    \ are to be printed;\n- separate the parameters with one space;\n- enter 0 to\
+    \ exit.\n\nEnter a request:\n&gt; 10\nProperties of 10\n\t buzz: false\n\t duck:\
+    \ true\n\t palindromic: false\n\t gapful: false\n\t even: true\n\t odd: false\n\
+    Welcome to Amazing Numbers!\nSupported requests:\n- enter a natural number to\
+    \ know its properties;\n- enter two natural numbers to obtain the properties of\
+    \ the list:\n    * the first parameter represents a starting number;\n    * the\
+    \ second parameter shows how many consecutive numbers are to be printed;\n- separate\
+    \ the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n&gt;\
+    \ 11\nProperties of 11\n\t buzz: false\n\t duck: false\n\t palindromic: true\n\
+    \t gapful: false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\n\
+    Supported requests:\n- enter a natural number to know its properties;\n- enter\
+    \ two natural numbers to obtain the properties of the list:\n    * the first parameter\
+    \ represents a starting number;\n    * the second parameter shows how many consecutive\
+    \ numbers are to be printed;\n- separate the parameters with one space;\n- enter\
+    \ 0 to exit.\n\nEnter a request:\n&gt; 12\nProperties of 12\n\t buzz: false\n\t\
+    \ duck: false\n\t palindromic: false\n\t gapful: false\n\t even: true\n\t odd:\
+    \ false\nWelcome to Amazing Numbers!\nSupported requests:\n- enter a natural number\
+    \ to know its properties;\n- enter two natural numbers to obtain the properties\
+    \ of the list:\n    * the first parameter represents a starting number;\n    *\
+    \ the second parameter shows how many consecutive numbers are to be printed;\n\
+    - separate the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n\
+    &gt; 13\nProperties of 13\n\t buzz: false\n\t duck: false\n\t palindromic: false\n\
+    \t gapful: false\n\t even: false\n\t odd: true\nWelcome to Amazing Numbers!\n\
+    Supported requests:\n- enter a natural number to know its properties;\n- enter\
+    \ two natural numbers to obtain the properties of the list:\n    * the first parameter\
+    \ represents a starting number;\n    * the second parameter shows how many consecutive\
+    \ numbers are to be printed;\n- separate the parameters with one space;\n- enter\
+    \ 0 to exit.\n\nEnter a request:\n&gt; 14\nProperties of 14\n\t buzz: true\n\t\
+    \ duck: false\n\t palindromic: false\n\t gapful: false\n\t even: true\n\t odd:\
+    \ false\nWelcome to Amazing Numbers!\nSupported requests:\n- enter a natural number\
+    \ to know its properties;\n- enter two natural numbers to obtain the properties\
+    \ of the list:\n    * the first parameter represents a starting number;\n    *\
+    \ the second parameter shows how many consecutive numbers are to be printed;\n\
+    - separate the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n\
+    &gt; 3168968709477745918\nProperties of 3168968709477745918\n\t buzz: false\n\t\
+    \ duck: true\n\t palindromic: false\n\t gapful: false\n\t even: true\n\t odd:\
+    \ false\nWelcome to Amazing Numbers!\nSupported requests:\n- enter a natural number\
+    \ to know its properties;\n- enter two natural numbers to obtain the properties\
+    \ of the list:\n    * the first parameter represents a starting number;\n    *\
+    \ the second parameter shows how many consecutive numbers are to be printed;\n\
+    - separate the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:\n\
+    &gt; 7750467334233764368\nProperties of 7750467334233764368\n\t buzz: false\n\t\
+    \ duck: true\n\t palindromic: false\n\t gapful: true\n\t even: true\n\t odd: false\n\
+    Welcome to Amazing Numbers!\nSupported requests:\n- enter a natural number to\
+    \ know its properties;\n- enter two natural numbers to obtain the properties of\
+    \ the list:\n    * the first parameter represents a starting number;\n    * the\
+    \ second parameter shows how many consecutive numbers are to be printed;\n- separate\
+    \ the parameters with one space;\n- enter 0 to exit.\n\nEnter a request:"
+  time: Wed, 06 Apr 2022 14:43:59 UTC
 record: -1

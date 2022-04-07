@@ -9,6 +9,8 @@
       <module name="Amazing_Numbers.Amazing_Numbers-task-build-test-results.main" target="11" />
       <module name="Amazing_Numbers.Amazing_Numbers-task-build-tmp.main" target="11" />
       <module name="Amazing_Numbers.Amazing_Numbers-task.main" target="11" />
+      <module name="Amazing_Numbers.Topics-The_Set_interface-Strict_superset.main" target="11" />
+      <module name="Amazing_Numbers.Topics-The_Set_interface-Theory.main" target="11" />
       <module name="Amazing_Numbers.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
